@@ -1,7 +1,5 @@
-<p align="center">
-  <img align="left" width="41%" src="https://pa1.narvii.com/6516/7764bb55accd8d667d7faee1a2a6fcdb269fc619_hq.gif" />
-  <h2 align="left">Hello! my name is Rafael, I'm a begginer fullstack developer from Brazil</h2>
-</p>
+<img width="40%" src="https://pa1.narvii.com/6516/7764bb55accd8d667d7faee1a2a6fcdb269fc619_hq.gif" />
+<h2 align="left">Hello! my name is Rafael, I'm a begginer fullstack developer from Brazil</h2>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=C0bal&layout=compact&card_width=490&theme=dark&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
