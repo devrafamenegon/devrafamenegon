@@ -1,6 +1,6 @@
 ### Hello 👋🏻 my name is Rafael, I'm a begginer fullstack developer from Brazil 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=C0bal&layout=compact&card_width=490&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=C0bal&layout=compact&card_width=490&theme=dark&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Follow me on my social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/C0bal)](https://github.com/C0bal)
