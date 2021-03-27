@@ -1,8 +1,6 @@
 <img width="20%" src="https://i.pinimg.com/originals/96/6e/ac/966eacce964aa8003d6eb07d03c71342.gif" />
 <h2 align="left">Hello! my name is Rafael, I'm a begginer fullstack developer from Brazil</h2>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=C0bal&layout=compact&card_width=490&theme=dark&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center" style="display: flex; align-items: center; justify-content: space-around">
   <img width=600 src="https://github-readme-stats.vercel.app/api?username=C0bal&theme=dark&show_icons=true&hide_border=true&bg_color=161B22" />
  
