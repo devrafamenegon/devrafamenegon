@@ -3,6 +3,12 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=C0bal&layout=compact&card_width=490&theme=dark&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center" style="display: flex; align-items: center; justify-content: space-around">
+  <img width=600 src="https://github-readme-stats.vercel.app/api?username=C0bal&theme=dark&show_icons=true&hide_border=true&bg_color=161B22" />
+ 
+  <img width=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=C0bal&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en&bg_color=161B22" alt="Rafael" />
+</p>
+
 #### Follow me on my social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/C0bal)](https://github.com/C0bal)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-menegon-b017b91b8/)](https://www.linkedin.com/in/rafael-menegon-b017b91b8/)
