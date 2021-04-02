@@ -1,4 +1,4 @@
-<img width="20%" src="https://i.pinimg.com/originals/96/6e/ac/966eacce964aa8003d6eb07d03c71342.gif" />
+<img width="25%" src="https://i.pinimg.com/originals/96/6e/ac/966eacce964aa8003d6eb07d03c71342.gif" />
 <h2 align="left">Hello! my name is Rafael, I'm a begginer Full Stack Developer from Brazil</h2>
 
 <p align="center" style="display: flex; align-items: center; justify-content: space-around">
