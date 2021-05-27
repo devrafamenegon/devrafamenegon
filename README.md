@@ -14,6 +14,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/rafael.menegon/)](https://www.instagram.com/rafael.menegon/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/rafael.menegon.77/)](https://www.facebook.com/rafael.menegon.77/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/DevRafaMenegon)](https://twitter.com/DevRafaMenegon)
+![](https://komarev.com/ghpvc/?username=C0bal&style=flat-square)
+
 
 <!--
 **C0bal/C0bal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
