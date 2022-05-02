@@ -1,11 +1,20 @@
-<img width="25%" src="https://i.pinimg.com/originals/96/6e/ac/966eacce964aa8003d6eb07d03c71342.gif" />
-<h2 align="left">Hello! my name is Rafael, I'm a begginer FullStack Developer from Brazil</h2>
+## Hello! my name is Rafael, I'm a begginer FullStack Developer from São Paulo, Brazil</h2>
 
-<p align="center" style="display: flex; align-items: center; justify-content: space-around">
-  <img width=600 src="https://github-readme-stats.vercel.app/api?username=C0bal&theme=dark&show_icons=true&hide_border=true&bg_color=161B22" />
- 
-  <img width=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=C0bal&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en&bg_color=161B22" alt="Rafael" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C0bal&theme=dark&show_icons=true&hide_border=true&bg_color=161B22" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=C0bal&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en&bg_color=161B22" alt="Rafael" />
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/96/6e/ac/966eacce964aa8003d6eb07d03c71342.gif">
+</div>
 
 #### Follow me on my social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/C0bal)](https://github.com/C0bal)
@@ -15,19 +24,3 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/rafael.menegon.77/)](https://www.facebook.com/rafael.menegon.77/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/DevRafaMenegon)](https://twitter.com/DevRafaMenegon)
 ![](https://komarev.com/ghpvc/?username=C0bal&style=flat-square)
-
-
-<!--
-**C0bal/C0bal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
