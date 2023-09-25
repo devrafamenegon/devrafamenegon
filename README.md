@@ -1,5 +1,3 @@
-## Hello! my name is Rafael, I'm a begginer FullStack Developer from São Paulo, Brazil</h2>
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devrafamenegon&theme=dark&show_icons=true&hide_border=true&bg_color=161B22" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=devrafamenegon&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en&bg_color=161B22" alt="Rafael" />
